@@ -1,8 +1,8 @@
 # CSSconf Nordic — Sparks for Talk Proposals
 
-Words to spark your brainstorming for ideas on talk proposals. This is not a list of topics. This is a list of *random words to help you start thinking* about ideas and concepts you want share at CSSconf Nordic.
+Words to spark your brainstorming for ideas on talk proposals. This is not a list of topics. This is a list of **random words to help you start thinking** about ideas and concepts you want share at CSSconf Nordic.
 
-Call for Speakers TBA (but soon! Stay tuned on [@CSSconfNO](https://twitter.com/cssconfno) and [cssconf.no](http://cssconf.no/)
+Call for Speakers TBA (but soon! Stay tuned on [@CSSconfNO](https://twitter.com/cssconfno) and [cssconf.no](http://cssconf.no/))
 
 * abstraction, accessibility, animation, architecture, automation
 * background, base, box model, browsers, buttons
