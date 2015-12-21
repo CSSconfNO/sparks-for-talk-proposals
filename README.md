@@ -2,7 +2,7 @@
 
 ## Call for Speakers TBA
 
-Our CfS opens soon, just wrapping up the final details. Stay tuned on [@CSSconfNO](https://twitter.com/cssconfno) and [cssconf.no](http://cssconf.no/))
+Our CfS opens soon, just wrapping up the final details. Stay tuned on [@CSSconfNO](https://twitter.com/cssconfno) and [cssconf.no](http://cssconf.no/)!
 
 ## …but you can start thinking about your proposal!
 
