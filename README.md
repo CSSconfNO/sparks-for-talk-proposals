@@ -10,7 +10,7 @@ Call for Speakers TBA (but soon! Stay tuned on [@CSSconfNO](https://twitter.com/
 * debugging, design, development, docs, DOM, dynamic
 * efficiency, embedding, engineering
 * fallbacks, flexbox, functions, fundamentals, future
-* games, git, granular, grid systems, guidelines
+* games, git, graphs, granular, grid systems, guidelines, graphics
 * habits, hacks, hierarchy, HTML, history
 * icons, images, inherit, interaction, input
 * JavaScript, journey
@@ -22,11 +22,11 @@ Call for Speakers TBA (but soon! Stay tuned on [@CSSconfNO](https://twitter.com/
 * patterns, performance, pixels, processors, positioning, portable
 * quality, query, quotes
 * reset, responsive, resilient, resolution, robust
-* scalability, selectors, simple, specificity, sprites, standards, SVG
-* teams, testing, tools, typography
-* unicode, user experience
+* scalability, selectors, simple, specificity, sprites, standards, SVG, styleguide
+* teams, testing, tools, typography, touch, transform
+* unicode, user experience, unicorn
 * vanilla, variables, vectors, viewport
 * webfonts, wireframes, workflow
-* [x](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/x), XML
-* [y](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/y)
+* [x](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/x), XML, x-position
+* [y](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/y), yml, y-position
 * [z](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/z), z-index, zip
