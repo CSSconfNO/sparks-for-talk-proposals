@@ -1,10 +1,8 @@
 # CSSconf Nordic — Sparks for Talk Proposals
 
-## Call for Speakers TBA
+Call for Speakers is now open. Have something to share that you are passionate about? Check out the [Call for Speakers](http://cssconf.no/call-for-speakers) — and submit your proposal by 31 January 2016.
 
-Our CfS opens soon, just wrapping up the final details. Stay tuned on [@CSSconfNO](https://twitter.com/cssconfno) and [cssconf.no](http://cssconf.no/)!
-
-## …but you can start thinking about your proposal!
+## Start thinking about ideas for a talk
 
 Words to spark your brainstorming for ideas on talk proposals. This is not a list of topics. This is a list of **random words to help you start thinking** about ideas and concepts you want share at CSSconf Nordic.
 
