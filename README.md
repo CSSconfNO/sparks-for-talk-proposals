@@ -1,6 +1,6 @@
 # CSSconf Nordic — Sparks for Talk Proposals
 
-Call for Speakers is now open. Have something to share that you are passionate about? Check out the [Call for Speakers](http://cssconf.no/call-for-speakers) — and submit your proposal by 31 January 2016.
+Have something to share that you are passionate about? Check out the [Call for Speakers](http://cssconf.no/call-for-speakers) — and submit your proposal by 31 January 2016.
 
 ## Start thinking about ideas for a talk
 
